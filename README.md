@@ -7,6 +7,8 @@ Zanowski, H., A. Jahn, S. Gu, Z. Liu, and T.M. Marchitto, 2022: Decomposition of
 ### Model Information
 More information about the C-iTRACE simulation and links to the model output can be found [here](https://sites.google.com/colorado.edu/citrace/home)
 
+### Zenodo Doi: [![DOI](https://zenodo.org/badge/513294554.svg)](https://zenodo.org/badge/latestdoi/513294554)
+
 ### Repository Contents
 
 This repository contains the following files:
