@@ -1,7 +1,7 @@
 # citrace_D14C
 This repository houses various scripts used to analyze deglacial Pacific D14C in the C-iTRACE simulation as presented in _Zanowski et al. 2022_
 
-Access through Zenodo: 
+Access through Zenodo: <br>
 [![DOI](https://zenodo.org/badge/513294554.svg)](https://zenodo.org/badge/latestdoi/513294554)
 
 ### Paper citation:
