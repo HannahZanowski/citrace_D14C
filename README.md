@@ -1,13 +1,13 @@
 # citrace_D14C
 This repository houses various scripts used to analyze deglacial Pacific D14C in the C-iTRACE simulation as presented in _Zanowski et al. 2022_
 
+Access through Zenodo: [![DOI](https://zenodo.org/badge/513294554.svg)](https://zenodo.org/badge/latestdoi/513294554)
+
 ### Paper citation:
 Zanowski, H., A. Jahn, S. Gu, Z. Liu, and T.M. Marchitto, 2022: Decomposition of deglacial Pacific radiocarbon age controls using an isotope-enabled ocean model (_Paleoceanography and Paleoclimatology_)
 
 ### Model Information
 More information about the C-iTRACE simulation and links to the model output can be found [here](https://sites.google.com/colorado.edu/citrace/home)
-
-### Zenodo Doi: [![DOI](https://zenodo.org/badge/513294554.svg)](https://zenodo.org/badge/latestdoi/513294554)
 
 ### Repository Contents
 
